@@ -7,9 +7,9 @@ lsusb -v for also interface packet size that is D_PACKET_SIZE for my case it was
 Recompile the project either or console or eclipse what ever is preffered. 
 
 
-#define VENDOR_ID 0x2188
-#define PRODUCT_ID 0x0ae1
-#define D_PACKET_SIZE 0x6
+VENDOR_ID 0x2188
+PRODUCT_ID 0x0ae1
+D_PACKET_SIZE 0x6
 
 
 /*
