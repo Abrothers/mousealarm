@@ -7,19 +7,19 @@ lsusb -v for also interface packet size that is D_PACKET_SIZE for my case it was
 Recompile the project either or console or eclipse what ever is preffered. 
 
 
-*VENDOR_ID 0x2188
-*PRODUCT_ID 0x0ae1
-*D_PACKET_SIZE 0x6
+ *VENDOR_ID 0x2188
+ *PRODUCT_ID 0x0ae1
+ *D_PACKET_SIZE 0x6
 
 
 /*
- *============================================================================
- *Name        : UsbMouseAlarm.c
- *Author      : Adnan Akbar
- *Version     :
- *Copyright   : MIT
- *Description : Using a mouse as Alarm Device
- *============================================================================
+ * ============================================================================
+ * Name        : UsbMouseAlarm.c
+ * Author      : Adnan Akbar
+ * Version     :
+ * Copyright   : MIT
+ * Description : Using a mouse as Alarm Device
+ * ============================================================================
  */
 /**** Reverse Engineered Protocol
  *    Messages Are 6 bytes in Length
