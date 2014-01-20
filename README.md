@@ -8,8 +8,11 @@ Recompile the project either or console or eclipse what ever is preffered.
 
 
  *VENDOR_ID 0x2188
+  
  *PRODUCT_ID 0x0ae1
+  
  *D_PACKET_SIZE 0x6
+  
 
 
 /*
